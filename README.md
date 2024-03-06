@@ -7,6 +7,7 @@ I'm a passionate web developer with expertise in React, TypeScript, and JavaScri
 - **React**: Creating interactive and efficient user interfaces.
 - **TypeScript**: Enhancing code quality and maintainability.
 - **JavaScript**: Crafting dynamic and responsive web applications.
+- **Emotion CSS**: making use of components to build visually appealing UI.
 
 ## How to Reach Me
 
